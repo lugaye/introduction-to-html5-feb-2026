@@ -100,14 +100,14 @@ git push origin main
 #### Check Your Results
 Go to your repository on GitHub.com
 Click the Actions tab:
-🟢 Green = Passed
-🔴 Red = Something is missing
+🟢 Green = Passed.
+🔴 Red = Something is missing.
 Click the Autograding job to see what failed.
 
 ### 📌 LMS Submission Note
 
 ✅ Once your GitHub Action is green, you are done.
-Copy the repository url as is and submit under Week 1 Assignment
+Copy the repository url as is and submit under Week 1 Assignment.
 Please note you can only submit once, if you need to make changes to your assignment; simply make and push your changes to the repository.
 
 Grades are pulled automatically from GitHub.
