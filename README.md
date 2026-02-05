@@ -77,7 +77,7 @@ In VS Code, type ! and press Tab to auto-generate the HTML boilerplate.
 Inside the <body> tags, build your digital business card.
 
 #### 🎯 Challenge:
-Can you add a second heading (<h2>) for an Experience section?
+Can you add a second heading `<h2>` for an Experience section?
 
 #### 📌 Accessibility Tip:
 Always include an alt attribute in your <img> tag.
